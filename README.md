@@ -1,4 +1,4 @@
-# unitymandelbrot
+# Unity Mandelbrot Set
 Just a simple and crude Mandelbrot Set Image Generator.
 
 That classical Mandelbrot Set project that anyone interested in math and programming does.
